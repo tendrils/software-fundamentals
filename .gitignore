@@ -61,3 +61,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/chapter-1/lesson-1/nbproject/private/
+/core/core/nbproject/private/
